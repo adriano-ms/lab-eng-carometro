@@ -1,4 +1,4 @@
-package io.github.adrianoms.carometro;
+package com.example.carometro;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
